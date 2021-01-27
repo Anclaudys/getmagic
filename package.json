@@ -1,0 +1,27 @@
+{
+  "name": "getmagic",
+  "version": "1.0.0",
+  "description": "A magical tool to log the sequelize magic methods.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anclaudys/getmagic.git"
+  },
+  "keywords": [
+    "sequelize",
+    "magic-methods"
+  ],
+  "author": "Anclaudys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anclaudys/getmagic/issues"
+  },
+  "homepage": "https://github.com/Anclaudys/getmagic#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "node-emoji": "^1.10.0"
+  }
+}
